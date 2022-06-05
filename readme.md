@@ -6,7 +6,7 @@ git clone https://github.com/CharlesSin/CSS-Library.git
 
 ### Go to directory
 ```
-cd Charles-SCSS-Standard-Lib
+cd CSS-Library
 ```
 
 ### Install node package
